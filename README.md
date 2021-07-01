@@ -1,6 +1,8 @@
 <h2 align="left">Hey, I´m Tiago Walzer</h2>
 👨‍🎓 Data Science Student at Universidade Est&aacute;cio de S&aacute;.
 <br /><br />
+:books: Currently studying to become a Data Engineer.
+<br /><br />
 📍 From Novo Hamburgo-RS and living in Dois Irm&#227;os-RS.
 <br /><br />
 👨‍💼 I'm currently working on Penta Tecnologia as IT Support Analyst.
