@@ -5,15 +5,15 @@
 <br /><br />
 📍 From Novo Hamburgo-RS and living in Dois Irm&#227;os-RS.
 <br /><br />
-👨‍💼 I'm currently working on Penta Tecnologia as IT Support Analyst.
+👨‍💼 Currently working on Penta Tecnologia as IT Support Analyst.
 <br /><br />
-:heart: I'm passionate about tech, learn, dog, motorsport, games and my family!
+:heart: Passionate about tech, learn, dog, motorsport, games and my family!
 <br /><br />
 :speech_balloon: Ask me about anything <a href="https://github.com/tiagowalzer/tiagowalzer/issues">here.</a>
 <br /><br />
-<!--- :link: <a href="https://linktr.ee/tiagowalzer">My Social Networks.</a>
+:link: <a href="https://linktr.ee/tiagowalzer">My Social Networks.</a>
 <br />
-<br /> -->
+<br />
 <a href="https://www.linkedin.com/in/tiagowalzer/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="left" alt="LinkedIn">
 </a>
