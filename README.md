@@ -5,7 +5,7 @@
 <br /><br />
 📍 From Novo Hamburgo-RS and living in Dois Irm&#227;os-RS.
 <br /><br />
-👨‍💼 Currently working on Penta Tecnologia as IT Support Analyst.
+👨‍💼 Currently working on Chipbyte Inform&aacute;tica as IT Support Analyst.
 <br /><br />
 :heart: Passionate about tech, learn, dog, motorsport, games and my family!
 <br /><br />
