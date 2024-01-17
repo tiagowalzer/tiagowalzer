@@ -1,9 +1,7 @@
 <h2 align="left">Hey, I´m Tiago Walzer</h2>
-👨‍🎓 Data Science Student at Universidade Est&aacute;cio de S&aacute;.
+:books: Currently studying to become a Front-end Developer.
 <br /><br />
-:books: Currently studying to become a Data Engineer.
-<br /><br />
-📍 From Novo Hamburgo-RS and living in Dois Irm&#227;os-RS.
+📍 From Novo Hamburgo-RS and living in Santa Maria-RS.
 <br /><br />
 👨‍💼 Currently working on Chipbyte Inform&aacute;tica as IT Support Analyst.
 <br /><br />
